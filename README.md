@@ -22,4 +22,4 @@ Uber Eats:
 
 App Idea:
 
-- One of the main app ideas is a place to find good picture spots on towns, if someone takes a picture and posts it, it will show the location where the picture was taken, making it a good picture spot.
+- One of my main app ideas is to build an app that allows the user to find good picture spots on specific times and parts of towns (for example, the way the sunset hits on Pier 60 at 50 in Tampa, FL), so if someone takes a picture and posts it, it will show the location and time where the picture was taken, sharing a good spot with other users.
